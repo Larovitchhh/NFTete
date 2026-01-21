@@ -1,5 +1,5 @@
 [project]
-name = "non-fungible-token"
+name = "non-fungible-tokenn"
 authors = []
 description = "Demonstrates a basic NFT collection that conforms to the SIP-009 NFT standard"
 telemetry = true
@@ -8,8 +8,8 @@ cache_dir = "./.cache"
 [[project.requirements]]
 contract_id = "SP2PABAF9FTAJYNFZH93XENAJ8FVY99RRM50D2JG9.nft-trait"
 
-[contracts.non-fungible-token]
-path = "contracts/non-fungible-token.clar"
+[contracts.non-fungible-tokenn]
+path = "contracts/non-fungible-tokenn.clar"
 clarity_version = 4
 epoch = "latest"
 
